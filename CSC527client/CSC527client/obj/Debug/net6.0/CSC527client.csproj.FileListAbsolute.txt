@@ -1,0 +1,15 @@
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.csproj.AssemblyReference.cache
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.AssemblyInfoInputs.cache
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.AssemblyInfo.cs
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.csproj.CoreCompileInputs.cache
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\bin\Debug\net6.0\CSC527client.exe
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\bin\Debug\net6.0\CSC527client.deps.json
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\bin\Debug\net6.0\CSC527client.runtimeconfig.json
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\bin\Debug\net6.0\CSC527client.dll
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\bin\Debug\net6.0\CSC527client.pdb
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.dll
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\refint\CSC527client.dll
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.pdb
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\CSC527client.genruntimeconfig.cache
+C:\Users\abcdefg\source\repos\CSC527client\CSC527client\obj\Debug\net6.0\ref\CSC527client.dll
